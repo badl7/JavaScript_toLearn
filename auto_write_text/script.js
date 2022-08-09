@@ -1,4 +1,4 @@
-const text = "I'm enjoying this job!!! ♥ ♥ ♥";
+const text = "♥ ♥ ♥ Enjoying this job!!! ♥ ♥ ♥";
 
 let index = 0;
 
