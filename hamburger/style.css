@@ -15,9 +15,9 @@ body {
 }
 
 button {
-    background-color: rebeccapurple;
+    background-color: rgb(240, 99, 17);
     border: none;
-    color: white;
+    color: rgb(24, 13, 13);
     position: fixed;
     top: 20px;
     right: 20px;
@@ -30,7 +30,7 @@ button.active {
 }
 
 nav {
-    background-color: rebeccapurple;
+    background-color: rgb(8, 1, 15);
     position: fixed;
     top: 0;
     right: 0;
@@ -55,6 +55,6 @@ nav ul li {
 }
 
 nav a {
-    color: white;
+    color: rgb(245, 176, 176);
     text-decoration: none;
 }
