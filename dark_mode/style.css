@@ -30,7 +30,7 @@ body.dark {
 }
 
 label {
-    background-color: red;
+    background-color: rgb(165, 13, 13);
     border-radius: 50%;
     display: inline-block;
     width: 70px;
