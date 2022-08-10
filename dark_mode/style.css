@@ -15,7 +15,7 @@ body {
     text-align: center;
     padding: 5rem;
 
-    transition: background 0.3s linear, color 0.3s linear;
+    transition: background 0.2s linear, color 0.2s linear;
 }
 
 body.dark {
@@ -33,8 +33,8 @@ label {
     background-color: red;
     border-radius: 50%;
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 30px;
     cursor: pointer;
     user-select: none;
     transition: background 0.2s linear;
